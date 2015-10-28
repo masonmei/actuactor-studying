@@ -1,0 +1,5 @@
+management:
+  context-path: /admin
+logging:
+  file: actuator-studying.log
+  path: log
